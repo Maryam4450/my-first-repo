@@ -1,0 +1,3 @@
+#creating conflicting file
+<br>
+The conflicting branch
